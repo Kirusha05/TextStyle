@@ -1,0 +1,19 @@
+span:first-of-type {
+    border: 1px solid black;
+    width: 200px;
+    height: 20px;
+    display: block;
+    outline: none;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.font-style {
+  border: 1px solid blue;
+  outline: none;
+  background: white !important;
+}
+
+.bold-selected, .italic-selected {
+  background-color: gray !important;
+}
